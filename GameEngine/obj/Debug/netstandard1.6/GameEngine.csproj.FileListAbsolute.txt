@@ -1,0 +1,9 @@
+C:\Projects\GameEngine\GameEngine\bin\Debug\netstandard1.6\GameEngine.deps.json
+C:\Projects\GameEngine\GameEngine\bin\Debug\netstandard1.6\GameEngine.dll
+C:\Projects\GameEngine\GameEngine\bin\Debug\netstandard1.6\GameEngine.pdb
+C:\Projects\GameEngine\GameEngine\obj\Debug\netstandard1.6\GameEngine.csprojAssemblyReference.cache
+C:\Projects\GameEngine\GameEngine\obj\Debug\netstandard1.6\GameEngine.AssemblyInfoInputs.cache
+C:\Projects\GameEngine\GameEngine\obj\Debug\netstandard1.6\GameEngine.AssemblyInfo.cs
+C:\Projects\GameEngine\GameEngine\obj\Debug\netstandard1.6\GameEngine.csproj.CoreCompileInputs.cache
+C:\Projects\GameEngine\GameEngine\obj\Debug\netstandard1.6\GameEngine.dll
+C:\Projects\GameEngine\GameEngine\obj\Debug\netstandard1.6\GameEngine.pdb
