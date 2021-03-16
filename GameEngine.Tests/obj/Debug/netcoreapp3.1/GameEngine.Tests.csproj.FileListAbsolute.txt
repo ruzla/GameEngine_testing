@@ -96,3 +96,4 @@ C:\Projects\GameEngine\GameEngine.Tests\obj\Debug\netcoreapp3.1\GameEngine.Tests
 C:\Projects\GameEngine\GameEngine.Tests\obj\Debug\netcoreapp3.1\GameEngine.Tests.dll
 C:\Projects\GameEngine\GameEngine.Tests\obj\Debug\netcoreapp3.1\GameEngine.Tests.pdb
 C:\Projects\GameEngine\GameEngine.Tests\obj\Debug\netcoreapp3.1\GameEngine.Tests.genruntimeconfig.cache
+C:\Projects\GameEngine\GameEngine.Tests\bin\Debug\netcoreapp3.1\TestData.csv

@@ -116,6 +116,10 @@
               "target": "Package",
               "version": "[1.6.1, )",
               "autoReferenced": true
+            },
+            "System.Threading.Thread": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"

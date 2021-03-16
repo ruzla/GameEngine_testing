@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9V303PFUVNh8mq8KE/+HMB/qIrAu/lpamJjUpN1qWfsyPb5YycUofOmcJ5vQPtbZ9kWSQzh4AQ2heZaGaFqF1g==",
+  "dgSpecHash": "paFc3Vq6U/7ABjjJFDN8m+Adqv6FpoYlD4d+KkHSsS8eMNYOQGsAmdjhEfSTccwZlOvOgXo26BrSsVMxd/5dAQ==",
   "success": true,
   "projectFilePath": "C:\\Projects\\GameEngine\\GameEngine\\GameEngine.csproj",
   "expectedPackageFiles": [
@@ -74,6 +74,7 @@
     "C:\\Users\\Russell\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\Russell\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\Russell\\.nuget\\packages\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Russell\\.nuget\\packages\\system.threading.thread\\4.3.0\\system.threading.thread.4.3.0.nupkg.sha512",
     "C:\\Users\\Russell\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\Russell\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Russell\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
